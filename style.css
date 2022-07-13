@@ -1,0 +1,21 @@
+.hero-img {
+    background-image: url(https://images.unsplash.com/photo-1483389127117-b6a2102724ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80);
+    background-size: cover;
+    background-position: center;
+    height: 80%;
+}
+
+.p2 {
+    width: 17em;
+}
+
+.p1 {
+    text-align: center;
+}
+
+.hero-img2 {
+    background-image: url(https://images.unsplash.com/photo-1594935975218-a3596da034a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);
+    background-size: cover;
+    background-position: center;
+    height: 50%;
+}
